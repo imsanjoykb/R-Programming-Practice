@@ -2,8 +2,6 @@
 # Function computing the amount of money on a savings account
 # with starting capital S
 # yearly interest rate rp (in %)
-# after d days (default 30)
-# or after y years (default 1)
 # Caveats: assumes interest is paid daily
 Earnings <- function(S, rp, y=1, d) 
 {
