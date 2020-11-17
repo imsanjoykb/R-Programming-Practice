@@ -1,8 +1,8 @@
 QuantileCBs <- function(X,p=0.5,alpha=0.05)
-# Compute (1-alpha)-confidence bounds and
-# a (1-alpha)-confidence interval for the
-# p-quantile of a distribution, based on a
-# sample X.
+## Compute (1-alpha)-confidence bounds and
+## a (1-alpha)-confidence interval for the
+## p-quantile of a distribution, based on a
+## sample X.
 {
 	# Vector of ordered observations:
 	Xs <- sort(X[!is.na(X)])
