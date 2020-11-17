@@ -1,4 +1,4 @@
-### fibonacci (you know what this does..)
+### fibonacci (you know what this does..)###
 Fibonacci1 <- function(n1=1, n2=1, kmax=10) 
 {
   if (kmax == 1)
