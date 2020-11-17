@@ -2,7 +2,7 @@
 
 # Simplest data structure is an object
 # with only one entry of type
-# "numeric", "logical" or "character"
+### "numeric", "logical" or "character"
 
 x <- 3
 x
