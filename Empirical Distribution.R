@@ -1,4 +1,4 @@
-### Hand-in-Exercise 3 ###
+##### Hand-in-Exercise 3 #####
 
 ### Configuration values:
 ds <- read.table(file="StatWiSo2006.txt",header=TRUE,sep="\t")
