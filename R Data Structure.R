@@ -44,7 +44,7 @@ xx
 str(xx)
 xx[1,2] # value in first row, second column
 xx[4,3]
-xx[2,] # the second row
+xx[2,] 
 xx[,3] # the third column
 xx[1:2,] # the first and the second row
 
