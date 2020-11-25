@@ -38,8 +38,7 @@ str(y)
 
 # Higher-dimensional arrays (tables, matrices)
 # are also possible.
-# Any vector may be converted into a
-# higher-dimensional array with array(.):
+
 
 xx <- array(1:20,dim=c(4,5)) 
 #arrange this numbers as two dimensional array with the dimensions (4, 5)
