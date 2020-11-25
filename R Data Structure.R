@@ -23,7 +23,7 @@ str(x)
 
 # of the same type.
 # Entry number j of vector x is accessed with
-# x[j]:
+
 
 x <- c(3,5,11)
 x
