@@ -17,9 +17,6 @@ x <- 'hallo'
 x
 str(x)
 
-# The command str(.) gives information about an
-# object.
-
 
 # of the same type.
 # Entry number j of vector x is accessed with
