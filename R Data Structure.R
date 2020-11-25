@@ -39,7 +39,7 @@ str(y)
 
 xx <- array(1:20,dim=c(4,5)) 
 #arrange this numbers as two dimensional array with the dimensions (4, 5)
-# so 4 rows and 5 columns
+
 xx
 str(xx)
 xx[1,2] # value in first row, second column
