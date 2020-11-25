@@ -21,9 +21,6 @@ str(x)
 # object.
 
 
-# Second simplest data structure are
-# one-dimensional arrays (vectors).
-# These are objects with several entries
 # of the same type.
 # Entry number j of vector x is accessed with
 # x[j]:
