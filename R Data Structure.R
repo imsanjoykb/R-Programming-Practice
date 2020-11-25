@@ -108,5 +108,4 @@ Someone
 Someone$Age <- 50
 Someone
 
-# There is a special type of list, called "data frame",
 # but this will be treated in detail later on ...
