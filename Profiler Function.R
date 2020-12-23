@@ -9,8 +9,6 @@ Rprof()
 * The summaryRprof() function summarizes the output from Rprof() (otherwise it's not readable)
 * NO NOT use system.time() and Rprof() together or you will be sad
 * Rprof() keeps track of the function call stack at regularly sampled intervals and tabulates how much time is spent in each function
-* Default sampling interval is 0.02 seconds
-* NOTE: If your code runs very quickly, the profiler is not useful, but then you probably don't need it in that case
 
 
 Using summaryRprof()
